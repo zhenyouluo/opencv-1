@@ -14,9 +14,12 @@ add_executable( webcam webcam.cpp )
 target_link_libraries( webcam ${OpenCV_LIBS} ) 
 
 ### Generate executable
+```
 cd <DisplayImage_directory>
 cmake .
 make
-
+```
 ### Run Exe
+```
 ./DisplayImage lena.jpg
+```
