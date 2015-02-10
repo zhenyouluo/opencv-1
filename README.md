@@ -5,6 +5,7 @@ A repository of tutorials and demos
 + 0001 Display Image.
 + 0002 Load, modify and save image.
 + 0003 webcam.
++ 0004 MAT
 
 ### Sample CMake file.
 ```
