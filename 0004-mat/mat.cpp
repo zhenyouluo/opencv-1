@@ -1,6 +1,6 @@
 #include <iostream>
 #include <opencv2/core.hpp>
- 
+
 using namespace std;
 using namespace cv;
 
@@ -60,7 +60,6 @@ int main(int argc, char** argv)
         vPoints[i] = Point2f((float)(i * 5), (float)(i % 7));
     }
     cout << "A vector of 2D Points = " << vPoints << endl << endl;
-
 
     return 0;
 }

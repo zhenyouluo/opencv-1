@@ -1,1 +1,6 @@
 #opencv projects git ignore
+/*/CMakeCache.txt
+/*/CMakeFiles/
+/*/DisplayImage
+/*/Makefile
+/*/cmake_install.cmake
