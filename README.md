@@ -1,7 +1,13 @@
 # Opencv
-A repository of tutorials and demos
+A repository of tutorials and demos - all run from my Beaglebone Black
 
-### Projects.
+### Install Guide
+[Installation in Linux](http://docs.opencv.org/trunk/doc/tutorials/introduction/linux_install/linux_install.html)
+
+### Beaglebone Black
+[What is BeagleBone Black?](http://beagleboard.org/BLACK)
+
+### Tutorial Files.
 + 0001 Display Image.
 + 0002 Load, modify and save image.
 + 0003 webcam.
